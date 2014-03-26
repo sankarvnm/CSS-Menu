@@ -1,0 +1,75 @@
+<div id="menuDiv">
+             
+             		<ul >
+    <li>
+        <a href="#">Home</a>
+    </li>
+    <li><a href="#">About</a>
+
+        <ul >
+            <li>
+                <a href="#">Vision & Mission</a>
+            </li>
+            <li>
+                <a href="#">Board Members</a>
+            </li>
+           
+        </ul>
+    </li>
+    <li><a href="#">GTC</a>
+		 <ul >
+            <li>
+                <a href="#">Technical Colleges</a>
+            </li>
+            <li>
+                <a href="#">Graduants</a>
+            </li>
+           
+        </ul>
+    </li>
+    <li><a href="#">ATP</a>
+
+        <ul >
+            <li>
+                <a href="#">Construction Ind. Courses</a>
+                
+                <ul >
+                <li><a  href="#">Blocklaying</a></li>
+                <li><a  href="#">Carpentry</a></li>
+                <li><a  href="#">Electrical</a></li>
+                <li><a  href="#">Interior Design</a></li>
+                <li><a href="#">Painting &amp; Decoration</a></li>
+                <li><a href="#">Plastering</a></li>
+                <li><a href="#">Plumbing</a></li>
+                <li><a href="#">Tiling</a></li>
+                <li><a href="#">Welding</a></li>
+                </ul>
+                
+            </li>
+            <li>
+                <a href="#">Music Production</a>
+            </li>
+           
+        </ul>
+    </li>
+    <li>
+        <a href="#">Register</a>
+    </li>
+    
+    <li><a href="#">Industry Partnership</a>
+
+        <ul >
+            <li>
+                <a href="#">Ind. Advisory Members</a>
+                               
+            </li>
+          
+           
+        </ul>
+    </li>
+     <li>
+        <a href="#">Contact</a>
+    </li>
+</ul>
+             
+             </div>
